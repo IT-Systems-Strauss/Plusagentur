@@ -6,7 +6,7 @@
         Sammlung von Report Customizations""",
 
     'description': """
-        Report Customizations in a Module
+        Report Customizations in a  Module
     """,
 
     'author': "Plusagentur",
